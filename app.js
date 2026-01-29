@@ -1,3 +1,4 @@
+alert("app.js chargé");
 document.addEventListener("DOMContentLoaded", () => {
 const btn = document.getElementById("nextBtn");
 
@@ -26,3 +27,4 @@ alert("Connexion refusée");
 }
 });
 });
+
